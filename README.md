@@ -142,7 +142,7 @@ Collaboration with Stakeholders: Engage with users, clients, and society to unde
 Transparency and Accountability: Promote transparency in software development processes and hold engineers accountable for ethical outcomes.
 Use of Ethical Frameworks: Leverage ethical frameworks such as the ACM Code of Ethics and Professional Conduct or IEEE Code of Ethics to guide decisions-making.
 
-Submission Guidelines:
+Submission Guidelines
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
 Cite any references or sources you use in your answers.
