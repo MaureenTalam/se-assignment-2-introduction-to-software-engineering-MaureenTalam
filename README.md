@@ -116,7 +116,7 @@ Different types of maintainance activities:
 - Corrective Maintenance: This is all about fixing defects and bugs that mess with the software's proper operation.
 - Adaptive Maintenance: Sometimes, the software needs to be modified to accommodate changes in the operating environment. For example, when there are hardware upgrades or new software dependencies.
 - Perfective Maintenance: This type of maintenance is all about enhancing the software's functionality, usability, performance, and security.
-- Preventive Maintenance: Here, we're talking about modifying the software to prevent future defects or make it easier to maintain.
+- Preventive Maintenance: Here, we are talking about modifying the software to prevent future defects or make it easier to maintain.
 
 Why it is essential:
  Ensuring Software Quality: Maintenance activities address defects and make the software better, reducing the chances of failures and disruptions.
