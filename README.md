@@ -108,10 +108,11 @@ Communication: They make sure everyone involved knows what's going on, give regu
 
 Software Maintenance:
 
-Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
+Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle??
 Software maintenance is all about what happens after the software is delivered. It involves a bunch of activities that aim to fix bugs, improve functionality, and make sure it can adapt to changing requirements and environments.
 
 Different types of maintainance activities:
+
 - Corrective Maintenance: This is all about fixing defects and bugs that mess with the software's proper operation.
 - Adaptive Maintenance: Sometimes, the software needs to be modified to accommodate changes in the operating environment. For example, when there are hardware upgrades or new software dependencies.
 - Perfective Maintenance: This type of maintenance is all about enhancing the software's functionality, usability, performance, and security.
