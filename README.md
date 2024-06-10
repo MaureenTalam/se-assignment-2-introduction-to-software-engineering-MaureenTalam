@@ -133,7 +133,6 @@ Autonomy and Control: As software systems become more sophisticated, questions a
 Environmental Impact: The development and use of software and hardware can have significant environmental impacts, including resource consumption and electronic waste.
 Job Displacement and Inequality: Automation and technological advancements may lead to job losses and economic inequality.
 
-
 Ensuring Ethical Standards in Software Engineering:
 Establish Ethical Guidelines: Develop clear ethical guidelines and codes of conduct for software engineers to follow.
 Education and Training: It provide ongoing education and training on ethical issues in software development.
