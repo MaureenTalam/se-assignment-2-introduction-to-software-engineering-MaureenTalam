@@ -139,7 +139,7 @@ Establish Ethical Guidelines: Develop clear ethical guidelines and codes of cond
 Education and Training: It provide ongoing education and training on ethical issues in software development.
 Independent Oversight: Establish independent review boards or ethics committees to assess and monitor software systems and project.
 Collaboration with Stakeholders: Engage with users, clients, and society to understand their ethical concerns and incorporate these into software design and development.
-Transparency and Accountability: Promote transparency in software development processes and hold engineers accountable for ethical outcomes.
+Transparency and Accountability: Promote transparency in software development processes and hold engineers accountable for ethical outcome.
 Use of Ethical Frameworks: Leverage ethical frameworks such as the ACM Code of Ethics and Professional Conduct or IEEE Code of Ethics to guide decisions-making.
 
 Submission Guidelines
